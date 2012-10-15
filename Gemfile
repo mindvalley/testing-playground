@@ -50,4 +50,10 @@ group :test do
   gem 'mongoid-rspec'
   gem "factory_girl_rails", "~> 4.1"
   gem 'forgery'
+
+  
+  gem 'capybara-webkit'
+  gem 'headless'
+  gem 'cucumber-rails'
+
 end
