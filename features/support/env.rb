@@ -12,6 +12,17 @@ require 'cucumber/rails'
 # steps to use the XPath syntax.
 Capybara.default_selector = :css
 
+# Use Capybara Webkit for JS testing
+Capybara.javascript_driver = :webkit
+Capybara.default_host = 'specs.dev'
+Capybara.app_host = 'http://specs.dev:8082'
+Capybara.run_server = true
+Capybara.server_port = 8082
+Capybara.default_wait_time = 10
+Capybara.server_boot_timeout = 60
+
+
+
 # By default, any exception happening in your Rails application will bubble up
 # to Cucumber so that your scenario will fail. This is a different from how 
 # your application behaves in the production environment, where an error page will 
