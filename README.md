@@ -62,5 +62,12 @@ Set up Mongoid with Cucumber for [Mongoid 2][cukemongoid2] or [Mongoid 3][cukemo
 * [Factory Girl Introduction](https://github.com/thoughtbot/factory_girl/blob/master/GETTING_STARTED.md)
 * [Rspec matchers for Mongoid](https://github.com/evansagge/mongoid-rspec)
 
+### Cucumber
+
+* [Imperative vs. Declarative Scenarios in User Stories](http://benmabey.com/2008/05/19/imperative-vs-declarative-scenarios-in-user-stories.html)
+* [Whose domain is it anyway?](http://dannorth.net/2011/01/31/whose-domain-is-it-anyway/)
+* [You're Cuking It Wrong](http://elabs.se/blog/15-you-re-cuking-it-wrong)
+
+
 [cukemongoid3]: http://adventuresincoding.com/2012/05/how-to-configure-cucumber-and-rspec-to-work-with-mongoid-30
 [cukemongoid2]: http://adventuresincoding.com/2010/07/how-to-configure-cucumber-and-rspec-to-work-with-mongoid/
