@@ -60,7 +60,7 @@ Set up Mongoid with Cucumber for [Mongoid 2][cukemongoid2] or [Mongoid 3][cukemo
 
 * [Better Specs](http://betterspecs.org)
 * [Factory Girl Introduction](https://github.com/thoughtbot/factory_girl/blob/master/GETTING_STARTED.md)
-
+* [Rspec matchers for Mongoid](https://github.com/evansagge/mongoid-rspec)
 
 [cukemongoid3]: http://adventuresincoding.com/2012/05/how-to-configure-cucumber-and-rspec-to-work-with-mongoid-30
 [cukemongoid2]: http://adventuresincoding.com/2010/07/how-to-configure-cucumber-and-rspec-to-work-with-mongoid/
